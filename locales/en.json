@@ -1,0 +1,21 @@
+{
+    "app_title": "XanasoftHub",
+    "menu_home": "Home",
+    "menu_dashboard": "Dashboard",
+    "menu_projects": "Projects",
+    "menu_reports": "Reports",
+    "menu_settings": "Settings",
+    "menu_about": "About",
+    
+    "home_title": "Welcome to XanasoftHub",
+    "home_welcome_title": "Welcome",
+    "home_welcome_content": "Welcome to XanasoftHub - your central hub for all your software needs.",
+    "home_getting_started_title": "Getting Started",
+    "home_getting_started_content": "To get started, explore the different sections using the sidebar menu.",
+    
+    "dashboard_title": "Dashboard",
+    "projects_title": "Projects",
+    "reports_title": "Reports",
+    "settings_title": "Settings",
+    "about_title": "About"
+  }

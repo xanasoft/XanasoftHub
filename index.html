@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>XanasoftHub</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/themes/dark.css">
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self';">
+</head>
+<body>
+  <div class="app-container">
+    <!-- 侧边菜单 -->
+    <div class="sidebar">
+      <div class="sidebar-header">
+        <div class="logo-container">
+          <h2 id="app-title" data-i18n="app_title">XanasoftHub</h2>
+        </div>
+        <div class="menu-toggle" id="menu-toggle">
+          <span class="toggle-icon">≡</span>
+        </div>
+      </div>
+      <nav class="main-menu" id="main-menu">
+        <!-- 菜单项将通过JavaScript动态加载 -->
+      </nav>
+      <div class="sidebar-footer">
+        <div class="language-selector">
+          <select id="language-selector">
+            <option value="en">English</option>
+            <option value="zh">中文</option>
+            <option value="es">Español</option>
+          </select>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 主内容区域 -->
+    <div class="main-content">
+      <header class="content-header">
+        <h1 id="page-title" data-i18n="home_welcome_title">欢迎使用</h1>
+      </header>
+      <div class="content-body" id="content-body">
+        <!-- 内容将通过JavaScript动态加载 -->
+      </div>
+    </div>
+  </div>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

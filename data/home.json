@@ -1,0 +1,19 @@
+{
+    "id": "home",
+    "title": "Welcome to XanasoftHub",
+    "titleKey": "home_title",
+    "sections": [
+      {
+        "title": "Welcome",
+        "titleKey": "home_welcome_title",
+        "content": "Welcome to XanasoftHub - your central hub for all your software needs.",
+        "contentKey": "home_welcome_content"
+      },
+      {
+        "title": "Getting Started",
+        "titleKey": "home_getting_started_title",
+        "content": "To get started, explore the different sections using the sidebar menu.",
+        "contentKey": "home_getting_started_content"
+      }
+    ]
+  }

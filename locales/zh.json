@@ -1,0 +1,15 @@
+{
+    "app_title": "XanasoftHub",
+    "menu_home": "首页",
+    "menu_dashboard": "仪表盘",
+    "menu_projects": "项目",
+    "menu_reports": "报告",
+    "menu_settings": "设置",
+    "menu_about": "关于",
+    
+    "home_title": "欢迎使用 XanasoftHub",
+    "home_welcome_title": "欢迎",
+    "home_welcome_content": "欢迎使用 XanasoftHub - 您所有软件需求的中心枢纽。",
+    "home_getting_started_title": "入门指南",
+    "home_getting_started_content": "要开始使用，请使用侧边栏菜单浏览不同部分。"
+  }

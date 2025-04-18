@@ -1,0 +1,21 @@
+{
+    "app_title": "XanasoftHub",
+    "menu_home": "Inicio",
+    "menu_dashboard": "Panel",
+    "menu_projects": "Proyectos",
+    "menu_reports": "Informes",
+    "menu_settings": "Configuración",
+    "menu_about": "Acerca de",
+    
+    "home_title": "Bienvenido a XanasoftHub",
+    "home_welcome_title": "Bienvenido",
+    "home_welcome_content": "Bienvenido a XanasoftHub - su centro para todas sus necesidades de software.",
+    "home_getting_started_title": "Primeros pasos",
+    "home_getting_started_content": "Para comenzar, explore las diferentes secciones utilizando el menú de la barra lateral.",
+    
+    "dashboard_title": "Panel",
+    "projects_title": "Proyectos",
+    "reports_title": "Informes",
+    "settings_title": "Configuración",
+    "about_title": "Acerca de"
+  }

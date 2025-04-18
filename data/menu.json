@@ -1,0 +1,38 @@
+[
+    {
+      "id": "home",
+      "title": "Home",
+      "titleKey": "menu_home",
+      "icon": "🏠"
+    },
+    {
+      "id": "dashboard",
+      "title": "Dashboard",
+      "titleKey": "menu_dashboard",
+      "icon": "📊"
+    },
+    {
+      "id": "projects",
+      "title": "Projects",
+      "titleKey": "menu_projects",
+      "icon": "📁"
+    },
+    {
+      "id": "reports",
+      "title": "Reports",
+      "titleKey": "menu_reports",
+      "icon": "📝"
+    },
+    {
+      "id": "settings",
+      "title": "Settings",
+      "titleKey": "menu_settings",
+      "icon": "⚙️"
+    },
+    {
+      "id": "about",
+      "title": "About",
+      "titleKey": "menu_about",
+      "icon": "ℹ️"
+    }
+  ]
